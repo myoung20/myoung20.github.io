@@ -1,8 +1,9 @@
 img {
-    width: 200px;
+    width: 400px;
 }
 body {
     text-align: center;
-    font-family: "arial";
-    
+    font-family: "verdana";
+    background: azure;
+    color: pink;    
 }
